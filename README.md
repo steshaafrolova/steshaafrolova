@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stesha</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Stesha" alt="Typing SVG" /></a></h1>
 <h3 align="center">Front-end Developer from Ukraine 🇺🇦</h3>
 
 <p align="center">
