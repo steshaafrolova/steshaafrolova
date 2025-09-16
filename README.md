@@ -30,7 +30,7 @@
       <img src="https://skillicons.dev/icons?i=vue" width="40" /><br>Vue
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40" /><br>Tailwind
+      <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="40" /><br>Node JS
     </td>
   </tr>
   <tr>
