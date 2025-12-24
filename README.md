@@ -1,15 +1,13 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Stesha" alt="Typing SVG" /></a></h1>
-<h3 align="center">Front-end Developer from Ukraine 🇺🇦</h3>
-
+<h3 align="center">Full-Stack Developer from Ukraine 🇺🇦</h3>
 <p align="center">
-  🔥 I build stylish, fast and meaningful websites — from idea to pixel-perfect UI. <br>
-  ✨ Let’s talk — <a href="mailto:frolovastesha7@gmail.com">email me</a> or <a href="https://t.me/steshaafrolova" target="_blank">chat in Telegram</a>.
+  🔥 I build web apps & business solutions — from idea to production. <br>
+  ✨ Let's talk — <a href="mailto:frolovastesha7@gmail.com">email me</a> or <a href="https://t.me/steshaafrolova" target="_blank">chat in Telegram</a>.
 </p>
 
 ---
 
 <h2 align="center">🔥 Tech Stack</h2>
-
 <div align="center">
   
 <table>
@@ -24,21 +22,24 @@
       <img src="https://skillicons.dev/icons?i=js" width="40" /><br>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" width="40" /><br>TypeScript
+      <img src="https://skillicons.dev/icons?i=react" width="40" /><br>React
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vue" width="40" /><br>Vue
     </td>
     <td align="center" width="90">
-      <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="40" /><br>Node JS
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br>Node.js
     </td>
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=sass" width="40" /><br>Sass
+      <img src="https://skillicons.dev/icons?i=firebase" width="40" /><br>Firebase
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" /><br>Bootstrap
+      <img src="https://skillicons.dev/icons?i=python" width="40" /><br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sass" width="40" /><br>Sass
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=figma" width="40" /><br>Figma
@@ -49,9 +50,6 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=github" width="40" /><br>GitHub
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=npm" width="40" /><br>NPM
-    </td>
   </tr>
 </table>
 
@@ -60,7 +58,6 @@
 ---
 
 <h2 align="center">📬 Contact</h2>
-
 <p align="center">
   <a href="mailto:frolovastesha7@gmail.com" target="_blank">
     ✉️ <strong>Email:</strong> frolovastesha7@gmail.com
