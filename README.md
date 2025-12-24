@@ -36,7 +36,7 @@
       <img src="https://skillicons.dev/icons?i=firebase" width="40" /><br>Firebase
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="40" /><br>Python
+      <img src="https://railway.app/brand/logo-light.svg" width="40" /><br>Railway
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=sass" width="40" /><br>Sass
